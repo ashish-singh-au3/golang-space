@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-type ashish int
+type ashish int //created own type named ashish
 
 var b ashish
 
