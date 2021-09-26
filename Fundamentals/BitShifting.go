@@ -6,7 +6,7 @@ func main() {
 
 	x := 4
 
-	fmt.Printf("%d\t\t%b\n", x, x) // output 2 is decimal number system and 10 is binary numbering system value
+	fmt.Printf("%d\t\t%b\n", x, x) // output 4 is decimal number system and 100 is binary numbering system value
 
 	y := x << 1 //Bit shifting process
 
