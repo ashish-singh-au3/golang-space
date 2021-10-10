@@ -8,5 +8,6 @@ func main() {
 
 	x[3] = 42 //inserting 42 at index 3
 	fmt.Println(x)
+	fmt.Println(len(x)) //to check the length
 
 }
